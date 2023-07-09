@@ -1,0 +1,46 @@
+h1{
+    font-family: sans-serif;
+    color: blueviolet;
+}
+.a{
+     
+    font-size: 50px;
+    border-style:outset;
+    margin-right: 43%;
+    margin-left: 30%;
+    cursor: pointer;
+    font-family: serif;
+}
+.b{
+    border-style:outset;
+    border: 7;
+}
+.air:hover{
+    background-color: firebrick;
+    text-decoration:underline 2px;
+}
+.f{
+    background-image:url(images/img1.jpg) ;
+    background-repeat:no-repeat;
+}
+.td{
+    background-size: cover;
+}
+.g{
+    background-size: 160px;
+}
+.button_none{
+    display:none;
+} 
+#first-div{
+    position: relative;
+    height: 200px;
+    width: 200px;
+    background-color: cornflowerblue;
+}               
+#second-div{
+    position:absolute;
+    height: 25px;
+    width: 25px;
+    background-color: darkblue;
+}                 
